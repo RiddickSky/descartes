@@ -22,6 +22,7 @@ catkin_package(
     descartes_moveit
   CATKIN_DEPENDS
     moveit_core
+    moveit_ros_planning
     tf
     cmake_modules
     descartes_core
